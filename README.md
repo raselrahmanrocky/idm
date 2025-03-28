@@ -2,7 +2,7 @@
 
 # IDM - Internet Download Manager
 
-Activate IDM for Lifetime: The fastest download accelerator.
+At First Download the Original IDM form the Official Website to Activate IDM for Lifetime: The fastest download accelerator.
 
 ### Method 1 - PowerShell (Recommended)
 1. Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
